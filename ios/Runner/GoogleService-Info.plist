@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>935203354363-j2isr7j4i68a8s82chd5773959l4c46f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.935203354363-j2isr7j4i68a8s82chd5773959l4c46f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDL3NbzM1Wwe_SuyIrr6IwFMZ9kdrvO_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>935203354363</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.earnbywatching</string>
+	<key>PROJECT_ID</key>
+	<string>earnbywatching-fb4a0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>earnbywatching-fb4a0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:935203354363:ios:86fd7248cae7abbeba625e</string>
+</dict>
+</plist>
